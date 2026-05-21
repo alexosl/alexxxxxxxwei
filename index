@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>用户数据删除说明</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; padding: 20px; background-color: #f9f9f9; color: #333; }
+        h1 { color: #2a2a2a; }
+        a { color: #1a0dab; text-decoration: none; }
+        a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <h1>欢迎访问我的网站</h1>
+    <p>这是我的 GitHub Pages 主页面。</p>
+    <p>查看我的用户数据删除说明： 
+       <a href="personal_data_deletion_page.html" target="_blank">点击这里</a>
+    </p>
+
+    <h2>关于数据删除</h2>
+    <p>本页面用于说明如何申请删除你的个人数据。</p>
+    <ol>
+        <li>发送邮件到： <a href="mailto:osolovelyhair@hotmail.com">osolovelyhair@hotmail.com</a></li>
+        <li>在邮件中说明你希望删除的数据。</li>
+    </ol>
+    <p>本应用仅用于个人使用，不收集或存储用户数据。</p>
+</body>
+</html>
